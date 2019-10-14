@@ -1,0 +1,17 @@
+Class: Dog
+
+Attributes: furry (boolean)
+            color (string)
+            energyCapacity (integer)
+            date_of_birth (integer)
+            alive (boolean)
+            currentEnergy (integer)
+
+
+
+
+
+Methods:    shaveHair: furry = "no" (affects the furry attribute)
+            dyeHair: color = "purple" (changes the color attribute)
+            calculateCurrentEnergy: 750 /1000 = .75 (divide currentEnergy from energyCapacity attribute)
+            kill: alive = "no"  (changes alive attribute)
